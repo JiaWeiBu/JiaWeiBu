@@ -7,3 +7,12 @@
 .projects ul {
     line-height: 1.8;
 }
+.project-img {
+    width: 360px;
+    height: 360px;
+    object-fit: contain;
+    display: block;
+    margin: 16px auto;
+    border-radius: 8px;
+    background: #f4f4f4;
+}
