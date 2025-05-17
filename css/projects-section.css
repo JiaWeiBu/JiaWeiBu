@@ -1,0 +1,9 @@
+.projects {
+    background: #fff;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px #eee;
+}
+.projects ul {
+    line-height: 1.8;
+}
